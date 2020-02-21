@@ -33,6 +33,7 @@ public class Ej11{
 
         //muestro resultados
         System.out.printf("La diferencia entre los dos números es %.2f", Math.abs(n1-n2) );
+               
 
     }
 }
